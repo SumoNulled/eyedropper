@@ -11,7 +11,7 @@ Able to select colors down to the pixel for precise color matching.
 
 ![image](https://github.com/SumoNulled/eyedropper/assets/46579169/8c4b4f25-4d9e-4b37-a3a5-38d905fe4d35)
 
-The precision is allows you to fine-tune your application.
+The precision allows you to fine-tune your application.
 
 ![image](https://github.com/SumoNulled/eyedropper/assets/46579169/f21cc01d-9cab-4300-8c52-d93ba0ced0a1)
 
